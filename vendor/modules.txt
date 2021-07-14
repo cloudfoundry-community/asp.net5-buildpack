@@ -18,7 +18,7 @@ github.com/cloudfoundry/libbuildpack/packager
 github.com/elazarl/goproxy
 # github.com/fsnotify/fsnotify v1.4.9
 github.com/fsnotify/fsnotify
-# github.com/go-ini/ini v1.42.0
+# github.com/go-ini/ini v1.62.0
 github.com/go-ini/ini
 # github.com/golang/mock v1.6.0
 github.com/golang/mock/gomock
